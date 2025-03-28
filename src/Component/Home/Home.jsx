@@ -3073,7 +3073,7 @@ function Home() {
                 <div className="col-lg-6">
                   <div className="d-flex align-items-center justify-content-around">
                     <div className="img5"  data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600">
-                      <img src={mobile} alt="" height={"300px"}/>
+                      <img src={mobile} alt=""/>
                     </div>
                     <div className="qeimg2" >
                       <h4>Scan The QR to download app</h4>
